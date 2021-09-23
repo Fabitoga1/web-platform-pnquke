@@ -39,14 +39,12 @@ body {
 #foto1 {
   width: 296px;
   height: 314px;
-  filter: saturate(0%);
 }
 
 #foto2 {
   width: 216px;
   height: 314px;
   padding-right: 10px;
-  filter: saturate(10%);
 }
 .voltearhorizontal {
   transform: scaleX(-1);
